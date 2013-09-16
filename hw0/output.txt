@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Chen
+   last: Ji
+email: cj815@nyu.edu
+leaderboard: ChenJi
